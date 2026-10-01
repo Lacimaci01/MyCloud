@@ -1,8 +1,8 @@
 # MyCloud
 # MyCloud
-Default admin user
-# Username: root
-# Password: rootadmin0
+# Default admin user
+ Username: root
+ Password: rootadmin0
 MyCloud is a lightweight, self-hosted file storage platform built with Python and Flask. It provides a modern web interface for storing, organizing, previewing, searching, and sharing files from your own computer or server.
 
 MyCloud is designed as a simple self-hosted alternative for people who want control over where their files are stored.
